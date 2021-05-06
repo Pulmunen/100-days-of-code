@@ -14,4 +14,6 @@
 
 **Thoughts:** These are great lessons, doing them shows how far I've come
 
-**Link to work:** https://scrimba.com/learn/frontend/rock-papers-scissors-cobab4601b80df4da81b00c77?a=968.0.1.L7_12 (just one example
+**Link to work:** 
+100-days-exercises-and-examples/coa91405abfb46553cae8c044/
+
