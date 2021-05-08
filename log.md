@@ -24,3 +24,12 @@ https://github.com/Pulmunen/100-days-exercises-and-examples/coa91405abfb46553cae
 
 **Link to work:** 
 https://github.com/Pulmunen/Chrome-ext-Scrimba-FE-mod-3
+
+### Day 3: May 9, 2021
+**Today's Progress**: Practiced creating designs from Figma, created some more repositories
+
+**Thoughts:** I need to get more comfortable with actually creating projects in Figma.  Not having trouble creating them in html and css. Getting better at git and github.
+
+**Link to work:** 
+https://github.com/Pulmunen/Chrome-ext-Scrimba-FE-mod-3
+
